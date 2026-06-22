@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: aqua;
+}
+.hedding{
+    font-family:cursive;
+    color: lightcyan;
+    text-align: center;
+
+}
+.img{
+    border-radius: 50%;
+}
+
+.tb1{
+    margin: 100px;
+}
